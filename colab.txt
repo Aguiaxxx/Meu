@@ -1,0 +1,4 @@
+!git clone https://github.com/Aguiaxxx/Play.git
+cd Play
+!source Tt.txt
+!node apdp.js
